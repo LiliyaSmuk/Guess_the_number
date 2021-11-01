@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Угадай число!</string>
+    <string name="behind">Недолёт!</string>
+    <string name="ahead">Перелёт!</string>
+    <string name="hit">В точку!</string>
+    <string name="input_value">Ввести значение</string>
+    <string name="try_to_guess">Попробуй угадать число, но для начала выбери уровень сложности.</string>
+    <string name="min_error">Введеное число меньше минимального значения!</string>
+    <string name="max_error">Введеное число больше максимального значения!</string>
+    <string name="win_txt">Ты уже победил! Выбери уровень сложности, чтобы начать новую игру.</string>
+    <string name="lvl1">Стандартный</string>
+    <string name="lvl2">Сложный</string>
+    <string name="empty_lineInGame">Введи число: </string>
+    <string name="lvl_choose">Выбери уровень сложности, чтобы начать игру.</string>
+    <string name="exit">Выход</string>
+</resources>
